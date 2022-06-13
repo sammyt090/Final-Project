@@ -1,0 +1,30 @@
+.samtitle{
+    color:paleturquoise;
+    text-decoration: underline;
+}
+.subheading{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bridal{
+    position: relative;
+    width: 100%;
+    
+}
+
+h5{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.bridal{
+    position: relative;
+    width: 100%;
+    padding-bottom: 50px;
+    
+}
+
+#special{
+    padding-top: 0px;
+}
